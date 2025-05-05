@@ -20,11 +20,11 @@ A multithreaded environmental monitoring system for Raspberry Pi 4 using Rate Mo
 
 ### Hardware Diagram
 
-![Hardware Diagram](images/Hardware_Diagram.png)
+![image](https://github.com/user-attachments/assets/ee83d138-b29e-46c0-b955-c4690fbc23d7)
 
 ### Software Diagram
 
-![Software Diagram](images/SOFtware_BLOCK_DIAgram.png)
+![image](https://github.com/user-attachments/assets/825bca96-b950-44d4-9ee1-1b3e3bd584cc)
 
 ---
 
